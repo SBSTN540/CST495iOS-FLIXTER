@@ -2,7 +2,8 @@
 //  AppDelegate.swift
 //  flixster
 //
-//  Created by Samuel Peters on 9/9/19.
+//  Created by Sebastian Ruiz
+
 //  Copyright © 2019 hello57748. All rights reserved.
 //
 

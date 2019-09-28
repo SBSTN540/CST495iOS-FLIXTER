@@ -2,9 +2,6 @@
 //  MoviesViewController.swift
 //  flixster
 //
-//  Created by Samuel Peters on 9/9/19.
-//  Copyright © 2019 hello57748. All rights reserved.
-//
 
 import UIKit
 import AlamofireImage
